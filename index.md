@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/riiduan/webApp/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="bajram-bardhi-346a9711a"><a class="LI-simple-link" href='https://it.linkedin.com/in/bajram-bardhi-346a9711a?trk=profile-badge'>Bajram Bardhi</a></div>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
